@@ -1,2 +1,2 @@
-# Web_scrapping_procject
+# Web_scrapping_project
 project related to web scrapping using BeautifulSoup liabrary
