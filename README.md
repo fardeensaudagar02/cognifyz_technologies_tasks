@@ -1,2 +1,2 @@
-# cognifyz_technologies_tasks
-all the tasks under the branches 
+# Web_scrapping_procject
+project related to web scrapping using BeautifulSoup liabrary
